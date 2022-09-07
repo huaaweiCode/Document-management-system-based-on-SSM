@@ -1,10 +1,5 @@
 # 基于SSM的文档管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ： “**文档1**”   ，无需转发，立即获取
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -37,11 +32,5 @@
 
 ![修改文档](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206011227836.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ： “**文档1**”   无需转发，立即获取
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
